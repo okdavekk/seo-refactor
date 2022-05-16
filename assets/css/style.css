@@ -46,14 +46,13 @@ a {
     text-decoration: none;
 }
 
-/* Removed background image */
+/* Removed background image and changed height to auto*/
 .hero {
-    height: 800px;
+    height: auto;
     width: 100%;
     margin-bottom: 25px;
     background-size: cover;
     background-position: center;
-    background-image: url("../images/digital-marketing-meeting.jpg");
 }
 
 .content {
