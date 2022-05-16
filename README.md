@@ -1,27 +1,26 @@
 # Name: seo-refactor
 
-[LIVE SITE](https://www.)
+## Resources
+- [LIVE SITE](https://okdavekk.github.io/seo-refactor/)
+
+- [REPOSITORY](https://github.com/okdavekk/seo-refactor)
 
 ## Table of Contents
-1.[Description](#description-horiseon-search-engine-optimization)
+- [Resources](#resources)
 
-2.[Usage](#Usage)
+- [Description](#description-horiseon-search-engine-optimization)
 
-3.[Visuals](#visuals)
+- [Visuals](#visuals)
 
-4.[Authors and Acknowledgement](#authors-and-acknowledgement)
+- [Authors and Acknowledgement](#authors-and-acknowledgement)
 
 ## Description: Horiseon Search Engine Optimization
 
-What I did for the page....  
+Optimized web page for accesability and simplified the page CSS and HTML
 
 ## Visuals:
-![brand-awareness](./assets/images/brand-awareness.png)
-![cost-management](./assets/images/cost-management.png)
-![digital-marketing-meeting](./assets/images/digital-marketing-meeting.jpg)
-![lead-generation](./assets/images/lead-generation.png)
-![online-reputation-management](./assets/images/online-reputation-management.jpg)
-![search-engine-optimization](./assets/images/search-engine-optimization.jpg)
-![social-media-marketing](./assets/images/social-media-marketing.jpg)
+![Horiseon](./assets/images/Horiseon-Search-Engine-Optimization.png)
 
 ## Authors and Acknowledgement
+This file came from the UNCC Coding Bootcamp and I updated the HTML and CSS for a Search Engine Optimization assignment.
+
