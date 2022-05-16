@@ -1,3 +1,7 @@
+/* In summary I changed the order of the CSS in some spots and simplified repeats that occured after grouping
+the HTML and reducing some elements.  I may miss some of these annotations due to getting a late start on 
+documenting them.  I hope I capture most and will do better next time ':)' */
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -131,7 +135,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-/* Remoed repeats of benifits */
+/* Removed repeats of benifit- */
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;
@@ -148,7 +152,7 @@ p {
     text-align: center;
 }
 
-/* Changed div to footer */
+/* Changed div(or whatever was there befor) to footer */
 footer {
     padding: 30px;
     clear: both;
