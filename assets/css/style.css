@@ -1,6 +1,6 @@
 /* In summary I changed the order of the CSS in some spots and simplified repeats that occured after grouping
 the HTML and reducing some elements.  I may miss some of these annotations due to getting a late start on 
-documenting them.  I hope I capture most and will do better next time ':)' */
+documenting them.  I hope I captured most and will do better next time ':)' */
 
 * {
     box-sizing: border-box;
@@ -11,7 +11,7 @@ documenting them.  I hope I capture most and will do better next time ':)' */
 body {
     background-color: #d9dcd6;
 }
-/* Rearanged some css to flow logically with HTML */
+/* Rearanged some CSS to flow logically with HTML */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
