@@ -16,7 +16,12 @@
 
 ## Description: Horiseon Search Engine Optimization
 
-Optimized web page for accesability and simplified the page CSS and HTML
+Optimized web page for accessability and search engines, also simplified the page CSS and HTML where possible.  
+- A majority of the work came from removing the div elements in favor of semantic HTML elements.
+- The page CSS was reformatted to follow a logical structure with the HTML elements and the HTML elements no follow a logical structure.
+- Alt accessability attributes are now added to the images.
+- The heading attributes follow a sequential order now.
+- The page has a concise and descriptive updated title.
 
 ## Visuals:
 ![Horiseon](./assets/images/Horiseon-Search-Engine-Optimization.png)
